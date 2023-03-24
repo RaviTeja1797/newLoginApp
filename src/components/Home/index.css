@@ -1,0 +1,21 @@
+.main-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-container {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  height: 60vh;
+  width: 60vw;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-container {
+  border: solid red 2px;
+  text-align: center;
+}
